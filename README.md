@@ -140,7 +140,7 @@ I am an aspiring AI/ML engineer passionate about building intelligent systems an
 - Software Engineering
 - Full-stack Development
 
-Feel free to connect with me on [LinkedIn](your-linkedin-url) or check out my [GitHub](your-github-url) for more projects.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sharan-garlapati-a00489350/) or check out my [GitHub](https://github.com/ssdoj88/) for more projects.
 
 ---
-⭐️ If you find this project helpful, please give it a star! 
+If you find this project helpful, please give it a star! 
