@@ -1,8 +1,8 @@
-# Titanic Survival Prediction (with a Twist) 🚢
+# Titanic Survival Prediction (with a Twist) 
 
 A machine learning project that predicts passenger survival on the Titanic using advanced feature engineering and model optimization techniques. This project demonstrates my skills in data science, machine learning, and full-stack development.
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project goes beyond the typical Titanic survival prediction by implementing:
 - Advanced feature engineering techniques
@@ -11,7 +11,7 @@ This project goes beyond the typical Titanic survival prediction by implementing
 - Interactive web application for real-time predictions
 - Comprehensive documentation and code organization
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 - **Data Processing & Analysis**
   - Pandas
@@ -34,7 +34,7 @@ This project goes beyond the typical Titanic survival prediction by implementing
   - Markdown
   - Project Documentation
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Titanic Survival Prediction/
@@ -45,7 +45,7 @@ Titanic Survival Prediction/
 └── assets/            # Images and other static files
 ```
 
-## 🚀 Key Features
+##  Key Features
 
 1. **Advanced Feature Engineering**
    - Title extraction from names
@@ -65,7 +65,7 @@ Titanic Survival Prediction/
    - Detailed probability outputs
    - Feature importance visualization
 
-## 🎯 Skills Demonstrated
+##  Skills Demonstrated
 
 - **Data Science**
   - Data preprocessing
@@ -85,7 +85,7 @@ Titanic Survival Prediction/
   - Documentation
   - Web application development
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. **Clone the repository**
    ```bash
@@ -109,14 +109,14 @@ Titanic Survival Prediction/
    streamlit run app.py
    ```
 
-## 📊 Model Performance
+##  Model Performance
 
 The Random Forest model achieves:
 - High accuracy on test data
 - Robust feature importance analysis
 - Good generalization capabilities
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 - Implement additional ML models (XGBoost, LightGBM)
 - Add more feature engineering techniques
@@ -124,15 +124,15 @@ The Random Forest model achieves:
 - Add model explanation capabilities
 - Implement A/B testing for model comparison
 
-## 🤝 Contributing
+##  Contributing
 
 Feel free to fork this project and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 About Me
+##  About Me
 
 I am an aspiring AI/ML engineer passionate about building intelligent systems and solving complex problems. This project is part of my portfolio to demonstrate my skills in:
 - Machine Learning
